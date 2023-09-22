@@ -1,5 +1,16 @@
 # Changelog
 
+## 0.0.81 (2023-09-22)
+
+## What's Changed
+* feat: activate public brain subscription by @mamadoudicko in https://github.com/StanGirard/quivr/pull/1241
+* feat(publicBrain): disable subscribe button when already subscribed and refetch brains list by @mamadoudicko in https://github.com/StanGirard/quivr/pull/1246
+* feat: knowledge tab list by @gozineb in https://github.com/StanGirard/quivr/pull/1222
+* fix(preview): fixed a few bugs unchecked by @StanGirard in https://github.com/StanGirard/quivr/pull/1247
+
+
+**Full Changelog**: https://github.com/StanGirard/quivr/compare/v0.0.80...v0.0.81
+
 ## 0.0.80 (2023-09-21)
 
 **Full Changelog**: https://github.com/StanGirard/quivr/compare/v0.0.79...v0.0.80
